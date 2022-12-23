@@ -1,6 +1,6 @@
 FROM alpine:edge
 
-ARG AUUID="cb2f627b-d299-4932-8ae8-1a9903b37593"
+ARG AUUID="94bdfac4-0ed9-49b6-86ba-f8cb903e50a6"
 ARG CADDYIndexPage="https://lksin.xyz"
 ARG ParameterSSENCYPT="chacha20-ietf-poly1305"
 ARG PORT=80
